@@ -1,7 +1,7 @@
 # ChowCatch
 
 
-![ChowCatchTitle](https://github.com/MotBCS/ChowCatch.github.io/assets/82474687/955c6ec1-336f-4f79-979a-9598aae9fe2e)
+        ![ChowCatchTitle](https://github.com/MotBCS/ChowCatch.github.io/assets/82474687/955c6ec1-336f-4f79-979a-9598aae9fe2e)
 
 
 
