@@ -5,3 +5,4 @@ Kaboom.js is a JavaScript library that allows you to make games fast. -> https:/
 
 Play Here -> https://motbcs.github.io/ChowCatch.github.io/
 
+![FoodSketches](https://github.com/MotBCS/ChowCatch.github.io/assets/82474687/12852427-d176-4e33-9a69-3af81f756bb9)
